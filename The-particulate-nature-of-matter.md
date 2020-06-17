@@ -51,8 +51,23 @@
      
 ```
 
+## Heating Curve
 
-
+```bash
+|                                               /
+|                            4 - Liquid gas    / 5 - gas
+|                           __________________/
+|                          / <--Condensation---
+|                         /  --Vapourisation-->
+|    <---Freezing----    /
+|    ----Melting---->   /
+|                      / 3 - Liquid
+|    2 - solid/liquid /
+|   _________________/
+|  / 
+| / 1 - Solid
+|/_______________________________
+```
 
 
 
