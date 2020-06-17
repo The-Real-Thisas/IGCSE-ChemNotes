@@ -26,19 +26,19 @@
 ## States of Matter
 
 - Solid
- - Strong forces of attraction between particles.
- - Fixed pattern. (lattice)
- - Atoms vibrate but can’t change position ∴fixed volume and shape.
+  - Strong forces of attraction between particles.
+  - Fixed pattern. (lattice)
+  - Atoms vibrate but can’t change position ∴fixed volume and shape.
 
 - Liquid
- - Weaker attractive forces than solids.
- - No fixed pattern, liquids take up the shape of their container.
- - Particles slide past each other.
+  - Weaker attractive forces than solids.
+  - No fixed pattern, liquids take up the shape of their container.
+  - Particles slide past each other.
 
 - Gas
- - Almost no intermolecular forces.
- - Particles far apart, and move quickly.
- - Collide with each other and bounce in all directions.
+  - Almost no intermolecular forces.
+  - Particles far apart, and move quickly.
+  - Collide with each other and bounce in all directions.
 
 ```bash
       __________________Sublimation______________________
