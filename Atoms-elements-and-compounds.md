@@ -2,9 +2,9 @@
 
 ## Atomic structure and the Periodic Table
 
-- Proton number: number of protons in an atom (and number of electrons in an atom)
+> Proton number: number of protons in an atom (and number of electrons in an atom)
 
-- Nucleon number: number of protons + neutrons in an atom.
+> Nucleon number: number of protons + neutrons in an atom.
 
 - In the periodic table
   - The proton number increases by 1 when you go to the right
@@ -12,7 +12,7 @@
 
 - Isotopes: atoms of same element with different no. of neutrons 
   - E.g. Carbon 12 and Carbon 14.
-  - Two types: non-radioactive isotopes and radioactiveisotopes which are unstable atoms that break down giving radiations.
+  - Two types: non-radioactive isotopes and radioactive isotopes which are unstable atoms that break down giving radiations.
   - Medical use: cancer treatment (radiotherapy) – rays kill cancer cells using cobalt-60
   - Industrial use: to check for leaks – radioisotopes (tracers) added to oil/gas. At leaks radiation is detected using a Geiger counter.
 
