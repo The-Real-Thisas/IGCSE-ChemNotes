@@ -13,6 +13,15 @@ Millions of organic compounds are known. So we have to make groups and we have t
   - Alcohols: All alcohols have an -OH group and --OH
   - Carboxylic acids: Carboxylic acid has an -COOH group
 
+## Characteristics of a homologous series: 
+-
+  - All members have the same general formula.
+  - They have very similar chemical properties because they are of a same functional group.
+  - The physical properties change in a predictable way as the number of carbon atoms increases.
+  - Consecutive members in a homologous series differ by a ch2 group. 
+  - The chain length increases by 1 each time
+  - As the chain gets longer, the compounds show a gradual change in properties
+
 ## Alkanes
 
 Methane:
@@ -52,22 +61,11 @@ H - C - C - C - C - H
 ```
 
 Pentane:
-
-
 Hexane:
-
-
 Heptane:
-
-
 Octane:
-
-
 Nonane:
-
-
 Decane:
-
 
 ## Alkene
 
@@ -131,13 +129,8 @@ H - C - C - C - C - O - H
 ```
 
 
-## Characteristics of a homologous series: 
--
-  - All members have the same general formula because they are of a same functional group.
-  - The chain length increases by 1 each time
-  - As the chain gets longer, the compounds show a gradual change in properties
 
-- Structural isomers: have the same chemical formula, but different structures, they can be straight or branched
+
 
 
 
