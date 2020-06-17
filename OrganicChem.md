@@ -12,7 +12,9 @@ Millions of organic compounds are known. So we have to make groups and we have t
   - Alkenes: Alkenes Are hydrocarbons which have only single covalent bond in their structure
   - Alcohols: All alcohols have an -OH group and --OH
   - Carboxylic acids: Carboxylic acid has an -COOH group
- 
+
+
+Methane:
 ```bash
      H
      |
@@ -20,8 +22,8 @@ Millions of organic compounds are known. So we have to make groups and we have t
      |
      H
 ```
-Methane
 
+Ethane:
 ```bash 
     H 	H
     |	|
@@ -29,7 +31,7 @@ H - C = C - H
     |   |
     H   H
 ```
-Ethane
+
 
 
 - Characteristics of a homologous series: 
