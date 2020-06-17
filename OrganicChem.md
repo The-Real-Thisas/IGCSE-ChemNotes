@@ -32,13 +32,66 @@ H - C = C - H
     H   H
 ```
 
-
+Propane:
 ```bash 
     H 	H   H 
     |	|   |
 H - C = C = C - H
     |   |   |
     H   H   H
+```
+
+Butane:
+```bash 
+    H 	H   H   H
+    |	|   |   |
+H - C = C = C = C - H
+    |   |   |   |
+    H   H   H   H
+```
+
+Pentane:
+```bash 
+    H 	H   H   H
+    |	|   |   |
+H - C = C = C = C - H
+    |   |   |   |
+    H   H   H   H
+```
+
+Hexane:
+```bash 
+    H 	H   H   H
+    |	|   |   |
+H - C = C = C = C - H
+    |   |   |   |
+    H   H   H   H
+```
+
+Heptane:
+```bash 
+    H 	H   H   H
+    |	|   |   |
+H - C = C = C = C - H
+    |   |   |   |
+    H   H   H   H
+```
+
+Octane:
+```bash 
+    H 	H   H   H
+    |	|   |   |
+H - C = C = C = C - H
+    |   |   |   |
+    H   H   H   H
+```
+Decane:
+```bash 
+    H 	H   H   H
+    |	|   |   |
+H - C = C = C = C - H
+    |   |   |   |
+    H   H   H   H
 ```
 
 - Characteristics of a homologous series: 
