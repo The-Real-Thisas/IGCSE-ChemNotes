@@ -8,9 +8,41 @@ Millions of organic compounds are known. So we have to make groups and we have t
 
 - Homologous series: A group of organic molecules, with similar chemical properties is called homologous series. 
 
+- Examples 
+  - Alkenes: Alkenes Are hydrocarbons which have only single covalent bond in their structure
+  - Alcohols: All alcohols have an -OH group and --OH
+  - Carboxylic acids: Carboxylic acid has an -COOH group
+ 
+```bash
+	 H
+	 |
+ H - C - H
+     |
+     H
+```
+Methane
+
+```bash 
+	H 	H
+	|	|
+H - C = C - H
+    |   |
+    H   H
+```
+Ethane
+
+
 - Characteristics of a homologous series: 
   - All the compounds fit the same general formula
   - The chain length increases by 1 each time
   - As the chain gets longer, the compounds show a gradual change in properties
 
 - Structural isomers: have the same chemical formula, but different structures, they can be straight or branched
+
+## Fuels
+
+- Fuels to know:
+ - Coal
+ - Natural gas: main constituent is methane
+ - Petroleum: a mixture of hydrocarbons which can be 
+separated into fractions
