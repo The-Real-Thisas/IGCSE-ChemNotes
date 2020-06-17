@@ -22,6 +22,16 @@ Millions of organic compounds are known. So we have to make groups and we have t
   - The chain length increases by 1 each time
   - As the chain gets longer, the compounds show a gradual change in properties
 
+## Name of Compounds
+
+Name ending → compound-type name
+
+- “ane” → alkane
+- “ene” → alkene
+- “ol” → alcohol
+- “oic acid” → carboxylic acid
+- “yl”, “oate” → ester
+
 ## Alkanes
 
 Methane:
