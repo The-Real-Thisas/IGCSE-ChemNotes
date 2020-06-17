@@ -30,6 +30,21 @@
 
 > Compound: substance in which two or more different elements are chemically combined.
 
+> Alloy: Mixture of two or more metals or mixture of one or more metal with a non-metal, to improve its properties.
+
+
+Metals | Non-Metals
+------------ | -------------
+Strong | Brittle
+Good conductors of heat and electricity | Poor conductor of heat and electricity (Aside from Graphite)
+High melting point and boiling point | Low melting and boiling point
+Forms basic oxides | Forms acidic oxides
+Forms cations in reactions | Forms anions in reactions
+Malleable and ductile |
+Sonorous |
+Some are magnetic |
+
+
 - Metals:
   - Strong
   - Good conductors of heat and electricity
@@ -48,7 +63,6 @@
   - Forms acidic oxides
   - Forms anions in reactions
 
-> Alloy: Mixture of two or more metals or mixture of one or more metal with a non-metal, to improve its properties
 
 ## Ions and Ionic Bonds
 
