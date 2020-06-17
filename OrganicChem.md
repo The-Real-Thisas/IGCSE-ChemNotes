@@ -28,7 +28,7 @@ Ethane:
 ```bash 
     H 	H
     |	|
-H - C = C - H
+H - C - C - H
     |   |
     H   H
 ```
