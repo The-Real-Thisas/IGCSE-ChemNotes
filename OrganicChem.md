@@ -132,8 +132,8 @@ H - C - C - C - C - O - H
 
 
 ## Characteristics of a homologous series: 
-
-  - All the compounds fit the same general formula
+-
+  - All members have the same general formula because they are of a same functional group.
   - The chain length increases by 1 each time
   - As the chain gets longer, the compounds show a gradual change in properties
 
