@@ -24,11 +24,11 @@
 
 ## Bonding: the Structure of Matter
 
-- Element: substance that cannot be split into anything simpler, in a chemical reaction. Each element has a unique proton number.
+> Element: substance that cannot be split into anything simpler, in a chemical reaction. Each element has a unique proton number.
 
-- Mixture: two or more elements mixed together but not chemically combined.
+> Mixture: two or more elements mixed together but not chemically combined.
 
-- Compound: substance in which two or more different elements are chemically combined.
+> Compound: substance in which two or more different elements are chemically combined.
 
 - Metals:
   - Strong
@@ -48,7 +48,7 @@
   - Forms acidic oxides
   - Forms anions in reactions
 
-- Alloy: Mixture of two or more metals or mixture of one or more metal with a non-metal, to improve its properties
+> Alloy: Mixture of two or more metals or mixture of one or more metal with a non-metal, to improve its properties
 
 ## Ions and Ionic Bonds
 
