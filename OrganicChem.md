@@ -14,8 +14,8 @@ Millions of organic compounds are known. So we have to make groups and we have t
   - Carboxylic acids: Carboxylic acid has an -COOH group
  
 ```bash
-	 H
-	 |
+     H
+     |
  H - C - H
      |
      H
@@ -23,8 +23,8 @@ Millions of organic compounds are known. So we have to make groups and we have t
 Methane
 
 ```bash 
-	H 	H
-	|	|
+    H 	H
+    |	|
 H - C = C - H
     |   |
     H   H
