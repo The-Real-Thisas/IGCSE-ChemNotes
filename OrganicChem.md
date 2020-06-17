@@ -13,6 +13,7 @@ Millions of organic compounds are known. So we have to make groups and we have t
   - Alcohols: All alcohols have an -OH group and --OH
   - Carboxylic acids: Carboxylic acid has an -COOH group
 
+## Alkenes
 
 Methane:
 ```bash
@@ -36,7 +37,7 @@ Propane:
 ```bash 
     H 	H   H 
     |	|   |
-H - C = C = C - H
+H - C - C - C - H
     |   |   |
     H   H   H
 ```
@@ -45,53 +46,54 @@ Butane:
 ```bash 
     H 	H   H   H
     |	|   |   |
-H - C = C = C = C - H
+H - C - C - C - C - H
     |   |   |   |
     H   H   H   H
 ```
 
 Pentane:
-```bash 
-    H 	H   H   H
-    |	|   |   |
-H - C = C = C = C - H
-    |   |   |   |
-    H   H   H   H
-```
+
 
 Hexane:
-```bash 
-    H 	H   H   H
-    |	|   |   |
-H - C = C = C = C - H
-    |   |   |   |
-    H   H   H   H
-```
+
 
 Heptane:
-```bash 
-    H 	H   H   H
-    |	|   |   |
-H - C = C = C = C - H
-    |   |   |   |
-    H   H   H   H
-```
+
 
 Octane:
-```bash 
-    H 	H   H   H
-    |	|   |   |
-H - C = C = C = C - H
-    |   |   |   |
-    H   H   H   H
-```
+
+
+Nonane:
+
+
 Decane:
+
+
+## Alkene
+
+Ethene:
 ```bash 
-    H 	H   H   H
-    |	|   |   |
-H - C = C = C = C - H
-    |   |   |   |
-    H   H   H   H
+H       H
+ \     /
+  C = C 
+ /     \
+H       H
+```
+Prophene:
+```bash 
+    H 	H   H 
+    |	|   | 
+H - C - C = C 
+    |       | 
+    H       H 
+```
+Butene:
+```bash 
+H     H   H   H
+ \    |   |   |
+  C = C - C - C - H
+ /        |   |
+H         H   H
 ```
 
 - Characteristics of a homologous series: 
