@@ -48,12 +48,6 @@ H - C = C = C - H
 
 - Structural isomers: have the same chemical formula, but different structures, they can be straight or branched
 
-## Fuels
-
-- Fuels to know:
- - Coal
- - Natural gas: main constituent is methane
- - Petroleum: a mixture of hydrocarbons which can be separated into fractions
 
 
 
@@ -62,4 +56,3 @@ H - C = C = C - H
 
 
 
- 
