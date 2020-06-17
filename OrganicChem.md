@@ -105,29 +105,29 @@ H - C - O - H
     |
     H
 ```
-Butene:
+Ethanol:
 ```bash 
-H     H   H   H
- \    |   |   |
-  C = C - C - C - H
- /        |   |
-H         H   H
+    H   H
+    |   | 
+H - C - C - O - H
+    |   |
+    H   H
 ```
-Butene:
+Propanol:
 ```bash 
-H     H   H   H
- \    |   |   |
-  C = C - C - C - H
- /        |   |
-H         H   H
+    H   H   H
+    |   |   |
+H - C - C - C - O - H
+    |   |   |
+    H   H   H
 ```
-Butene:
+Butanol:
 ```bash 
-H     H   H   H
- \    |   |   |
-  C = C - C - C - H
- /        |   |
-H         H   H
+    H   H   H   H
+    |   |   |   |   
+H - C - C - C - C - O - H
+    |   |   |   |
+    H   H   H   H
 ```
 
 
