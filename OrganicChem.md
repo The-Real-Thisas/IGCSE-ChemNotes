@@ -33,6 +33,13 @@ H - C = C - H
 ```
 
 
+```bash 
+    H 	H   H 
+    |	|   |
+H - C = C = C - H
+    |   |   |
+    H   H   H
+```
 
 - Characteristics of a homologous series: 
   - All the compounds fit the same general formula
@@ -46,5 +53,13 @@ H - C = C - H
 - Fuels to know:
  - Coal
  - Natural gas: main constituent is methane
- - Petroleum: a mixture of hydrocarbons which can be 
-separated into fractions
+ - Petroleum: a mixture of hydrocarbons which can be separated into fractions
+
+
+
+
+
+
+
+
+ 
