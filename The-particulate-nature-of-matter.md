@@ -66,8 +66,20 @@
 |   _________________/
 |  / 
 | / 1 - Solid
-|/_______________________________
+|/_______________________________________________
 ```
+
+## Diffusion
+
+- Diffusion is the spreading of one substance through another from a region of high concentration to a region of low concentration due to the continuous random motion of particles.
+
+- Evidence for diffusion:
+  - In liquids: potassium manganate (VII) in a beaker of water.
+  - In gases: a gas jar of air and a gas jar of bromine connected.
+
+- Factors that affect the rate of diffusion:
+  - Temperature increases → rate of diffusion increases
+  - Lower density gas → rate of diffusion is higher
 
 
 
