@@ -13,7 +13,7 @@ Millions of organic compounds are known. So we have to make groups and we have t
   - Alcohols: All alcohols have an -OH group and --OH
   - Carboxylic acids: Carboxylic acid has an -COOH group
 
-## Alkenes
+## Alkanes
 
 Methane:
 ```bash
@@ -95,6 +95,41 @@ H     H   H   H
  /        |   |
 H         H   H
 ```
+## Alcohols
+
+Methanol:
+```bash 
+    H
+    |
+H - C - O - H
+    |
+    H
+```
+Butene:
+```bash 
+H     H   H   H
+ \    |   |   |
+  C = C - C - C - H
+ /        |   |
+H         H   H
+```
+Butene:
+```bash 
+H     H   H   H
+ \    |   |   |
+  C = C - C - C - H
+ /        |   |
+H         H   H
+```
+Butene:
+```bash 
+H     H   H   H
+ \    |   |   |
+  C = C - C - C - H
+ /        |   |
+H         H   H
+```
+
 
 - Characteristics of a homologous series: 
   - All the compounds fit the same general formula
