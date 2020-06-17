@@ -45,24 +45,6 @@ Sonorous |
 Some are magnetic |
 
 
-- Metals:
-  - Strong
-  - Good conductors of heat and electricity
-  - High melting point and boiling point
-  - Forms basic oxides
-  - Forms cations in reactions
-  - Malleable and ductile
-  - Sonorous
-  - Some are magnetic
-
-- Non-Metals:
-  - Brittle
-  - Poor conductor of heat and electricity (Aside from Graphite)
-  - Low melting and boiling point
-  - Low density
-  - Forms acidic oxides
-  - Forms anions in reactions
-
 
 ## Ions and Ionic Bonds
 
