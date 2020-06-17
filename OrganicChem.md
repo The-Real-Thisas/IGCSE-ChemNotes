@@ -6,13 +6,11 @@ Millions of organic compounds are known. So we have to make groups and we have t
 
 ##  Homologous Series
 
-- Homologous series: ‘family’ of similar compounds with similar properties due to the presence of the same functional group.
+- Homologous series: A group of organic molecules, with similar chemical properties is called homologous series. 
 
 - Characteristics of a homologous series: 
+  - All the compounds fit the same general formula
+  - The chain length increases by 1 each time
+  - As the chain gets longer, the compounds show a gradual change in properties
 
--- all the compounds fit the same general formula
--- the chain length increases by 1 each time
--- as the chain gets longer, the compounds show a gradual change in properties
-
-- Structural isomers: have the same chemical formula, but 
-different structures, they can be straight or branched
+- Structural isomers: have the same chemical formula, but different structures, they can be straight or branched
