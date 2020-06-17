@@ -29,22 +29,8 @@ Solid | Liquid | Gas
 ------|--------|-----
 Strong forces of attraction between particles. | Weaker attractive forces than solids. | Almost no intermolecular forces.
 Fixed pattern. (lattice) | No fixed pattern, liquids take up the shape of their container. | Particles far apart, and move quickly.
-Atoms vibrate but can’t change position ∴fixed volume and shape. | Particles slide past each other. | Collide with each other and bounce in all directions.
+Atoms vibrate but can’t change position ∴ have a fixed volume and shape. | Particles slide past each other. | Collide with each other and bounce in all directions.
 
-- Solid
-  - Strong forces of attraction between particles.
-  - Fixed pattern. (lattice)
-  - Atoms vibrate but can’t change position ∴fixed volume and shape.
-
-- Liquid
-  - Weaker attractive forces than solids.
-  - No fixed pattern, liquids take up the shape of their container.
-  - Particles slide past each other.
-
-- Gas
-  - Almost no intermolecular forces.
-  - Particles far apart, and move quickly.
-  - Collide with each other and bounce in all directions.
 
 ```bash
       __________________Sublimation______________________
@@ -77,7 +63,7 @@ Atoms vibrate but can’t change position ∴fixed volume and shape. | Particles
 
 ## Diffusion
 
-- Diffusion is the spreading of one substance through another from a region of high concentration to a region of low concentration due to the continuous random motion of particles.
+> Diffusion is the spreading of one substance through another from a region of high concentration to a region of low concentration due to the continuous random motion of particles.
 
 - Evidence for diffusion:
   - In liquids: potassium manganate (VII) in a beaker of water.
