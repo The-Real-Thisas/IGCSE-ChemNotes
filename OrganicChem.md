@@ -39,6 +39,8 @@ What are Alkanes  ?
 
 ## Properties of Alkanes
 
+All alkanes are composed of carbon and hydrogen atoms, and have similar bonds, structures, and formulas. The number of carbon atoms present in an alkane has no limit. Greater numbers of atoms in the molecules will lead to stronger intermolecular attractions (dispersion forces) and correspondingly different physical properties of the molecules. Properties such as melting point and boiling point (Table below) usually change smoothly and predictably as the number of carbon and hydrogen atoms in the molecules change.
+
 Alkane | Molecular Formula | Melting Point (°C)	| Boiling Point (°C) | Phase at STP4 | Number of Structural Isomers
 -------|-------------------|--------------------|--------------------|---------------|-----------------------------
  methane | CH4 | –182.5 | –161.5 | gas | 1
