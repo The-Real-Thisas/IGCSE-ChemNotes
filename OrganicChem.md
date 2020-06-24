@@ -130,7 +130,7 @@ H - C - C - C - O - H
     H   H   H
 ```
 Butanol:
-```bash 
+```
     H   H   H   H
     |   |   |   |   
 H - C - C - C - C - O - H
