@@ -40,7 +40,7 @@ Name ending → compound-type name
 What are Alkanes  ?
  > Alkanes are organic compounds that consist entirely of single-bonded carbon and hydrogen atoms and lack any other functional groups. The distinguishing feature of an alkane, making it distinct from other compounds that also exclusively contain carbon and hydrogen, is its lack of unsaturation.
 
-## Properties of Alkanes
+## Properties of Alkanes (And alkenes)
 
 All alkanes are composed of carbon and hydrogen atoms, and have similar bonds, structures, and formulas. The number of carbon atoms present in an alkane has no limit. Greater numbers of atoms in the molecules will lead to stronger intermolecular attractions and correspondingly different physical properties of the molecules. Properties such as melting point and boiling point (Table below) usually change smoothly and predictably as the number of carbon and hydrogen atoms in the molecules change.
 
@@ -135,6 +135,7 @@ H     H   H   H
  /        |   |
 H         H   H
 ```
+
 ## Alcohols
 
 Methanol:
