@@ -44,7 +44,15 @@ Alkane | Molecular Formula | Melting Point (°C)	| Boiling Point (°C) | Phase a
  methane | CH4 | –182.5 | –161.5 | gas | 1
  ethane | C2H6 | –183.3 | –88.6 | gas | 1
  propane | C3H8 | –187.7 | –42.1 | gas | 1 
-
+ butane | C4H10 | –138.3 | –0.5 | gas | 2
+ pentane | C5H12 | –129.7 | 36.1 | liquid | 3
+ hexane | C6H14 | –95.3 | 68.7 | liquid | 5
+ heptane | C7H16 | –90.6 | 98.4 | liquid | 9 
+ octane | C8H18 | –56.8 | 125.7 | liquid | 18 
+ nonane | C9H2 | –53.6 | 150.8 | liquid | 35
+ decane | C10H22 | –29.7 | 174.0 | liquid | 75
+ tetradecane | C14H30 | 5.9 | 253.5 | solid | 1858
+ octadecane | C18H38 | 28.2 | 316.1 | solid | 60,523
 
 #### Examples of Alkanes
 
