@@ -34,8 +34,13 @@ Name ending → compound-type name
 
 ## Alkanes
 
+What are Alkanes  ?
+ > Alkanes are organic compounds that consist entirely of single-bonded carbon and hydrogen atoms and lack any other functional groups. The distinguishing feature of an alkane, making it distinct from other compounds that also exclusively contain carbon and hydrogen, is its lack of unsaturation.
+
+#### Examples of Alkanes
+
 Methane:
-```bash
+```
      H
      |
  H - C - H
@@ -44,7 +49,7 @@ Methane:
 ```
 
 Ethane:
-```bash 
+``` 
     H 	H
     |	|
 H - C - C - H
@@ -53,7 +58,7 @@ H - C - C - H
 ```
 
 Propane:
-```bash 
+``` 
     H 	H   H 
     |	|   |
 H - C - C - C - H
@@ -62,7 +67,7 @@ H - C - C - C - H
 ```
 
 Butane:
-```bash 
+``` 
     H 	H   H   H
     |	|   |   |
 H - C - C - C - C - H
@@ -77,10 +82,23 @@ Octane:
 Nonane:
 Decane:
 
+
+## Properties of Alkanes
+
+Alkane | Molecular Formula | Melting Point (°C)	| Boiling Point (°C) | Phase at STP4 | Number of Structural Isomers
+-------|-------------------|--------------------|--------------------|---------------|-----------------------------
+ methane | CH4 | –182.5 | –161.5 | gas | 1
+ ethane | C2H6 | –183.3 | –88.6 | gas | 1
+ propane | C3H8 | –187.7 | –42.1 | gas | 1 
+
 ## Alkene
 
+What are alkenes ?
+ > The alkanes are saturated hydrocarbons—that is, hydrocarbons that contain only single bonds. Alkenes contain one or more carbon-carbon double bonds.
+
+#### Examples of Alkenes
 Ethene:
-```bash 
+``` 
 H       H
  \     /
   C = C 
@@ -88,7 +106,7 @@ H       H
 H       H
 ```
 Prophene:
-```bash 
+```
     H 	H   H 
     |	|   | 
 H - C - C = C 
@@ -96,7 +114,7 @@ H - C - C = C
     H       H 
 ```
 Butene:
-```bash 
+``` 
 H     H   H   H
  \    |   |   |
   C = C - C - C - H
@@ -106,7 +124,7 @@ H         H   H
 ## Alcohols
 
 Methanol:
-```bash 
+``` 
     H
     |
 H - C - O - H
@@ -114,7 +132,7 @@ H - C - O - H
     H
 ```
 Ethanol:
-```bash 
+``` 
     H   H
     |   | 
 H - C - C - O - H
@@ -122,7 +140,7 @@ H - C - C - O - H
     H   H
 ```
 Propanol:
-```bash 
+```
     H   H   H
     |   |   |
 H - C - C - C - O - H
@@ -137,6 +155,8 @@ H - C - C - C - C - O - H
     |   |   |   |
     H   H   H   H
 ```
+
+
 
 
 
