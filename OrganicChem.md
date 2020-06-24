@@ -35,6 +35,10 @@ Name ending → compound-type name
 - “oic acid” → carboxylic acid
 - “yl”, “oate” → ester
 
+### Saturated compounds 
+
+> If the compound has a double bond or triple bonds they are known as an unsaturated compound. They do not have the maximum number of hydrogen atoms around the carbon atom.
+
 ## Alkanes
 
 What are Alkanes  ?
@@ -171,10 +175,7 @@ H - C - C - C - C - O - H
     H   H   H   H
 ```
 
-
-## Saturated compounds 
-
-If the compound has a double bond or triple bonds they are known as an unsaturated compound. They do not have the maximum number of hydrogen atoms around the carbon atom. 
+ 
 
 
 
