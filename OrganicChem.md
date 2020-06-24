@@ -37,6 +37,15 @@ Name ending → compound-type name
 What are Alkanes  ?
  > Alkanes are organic compounds that consist entirely of single-bonded carbon and hydrogen atoms and lack any other functional groups. The distinguishing feature of an alkane, making it distinct from other compounds that also exclusively contain carbon and hydrogen, is its lack of unsaturation.
 
+## Properties of Alkanes
+
+Alkane | Molecular Formula | Melting Point (°C)	| Boiling Point (°C) | Phase at STP4 | Number of Structural Isomers
+-------|-------------------|--------------------|--------------------|---------------|-----------------------------
+ methane | CH4 | –182.5 | –161.5 | gas | 1
+ ethane | C2H6 | –183.3 | –88.6 | gas | 1
+ propane | C3H8 | –187.7 | –42.1 | gas | 1 
+
+
 #### Examples of Alkanes
 
 Methane:
@@ -82,14 +91,6 @@ Octane:
 Nonane:
 Decane:
 
-
-## Properties of Alkanes
-
-Alkane | Molecular Formula | Melting Point (°C)	| Boiling Point (°C) | Phase at STP4 | Number of Structural Isomers
--------|-------------------|--------------------|--------------------|---------------|-----------------------------
- methane | CH4 | –182.5 | –161.5 | gas | 1
- ethane | C2H6 | –183.3 | –88.6 | gas | 1
- propane | C3H8 | –187.7 | –42.1 | gas | 1 
 
 ## Alkene
 
