@@ -10,8 +10,11 @@ Millions of organic compounds are known. So we have to make groups and we have t
 
 - Examples 
   - Alkenes: Alkenes Are hydrocarbons which have only single covalent bond in their structure
+  - Alkanes: Alkanes are organic compounds that consist entirely of single-bonded carbon and hydrogen atoms and lack any other functional groups. The distinguishing feature of an alkane, making it distinct from other compounds that also exclusively contain carbon and hydrogen, is its lack of unsaturation.
   - Alcohols: All alcohols have an -OH group and --OH
   - Carboxylic acids: Carboxylic acid has an -COOH group
+
+> Empirical formulae: It is the simplest ratio of molecules in an atom.
 
 ## Characteristics of a homologous series: 
 
@@ -31,7 +34,6 @@ Name ending → compound-type name
 - “ol” → alcohol
 - “oic acid” → carboxylic acid
 - “yl”, “oate” → ester
-
 
 ## Alkanes
 
@@ -106,7 +108,7 @@ Decane:
 ## Alkene
 
 What are alkenes ?
- > The alkanes are saturated hydrocarbons—that is, hydrocarbons that contain only single bonds. Alkenes contain one or more carbon-carbon double bonds.
+ > An alkene is an unsaturated hydrocarbon that contains a carbon–carbon double bond.
 
 #### Examples of Alkenes
 Ethene:
@@ -169,6 +171,9 @@ H - C - C - C - C - O - H
 ```
 
 
+## Saturated compounds 
+
+If the compound has a double bond or triple bonds they are known as an unsaturated compound. They do not have the maximum number of hydrogen atoms around the carbon atom. 
 
 
 
