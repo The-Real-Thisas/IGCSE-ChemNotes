@@ -32,6 +32,8 @@ Name ending → compound-type name
 - “oic acid” → carboxylic acid
 - “yl”, “oate” → ester
 
+![alt text](https://github.com/The-Real-Thisas/IGCSE-ChemNotes/blob/master/images/OrganicChem/1.png?raw=true)
+
 ## Alkanes
 
 What are Alkanes  ?
