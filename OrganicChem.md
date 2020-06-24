@@ -187,11 +187,11 @@ H - C - C - C - C - O - H
 ##### Functional group: COOH
 
 ```
-  H      O
-  |     //
+    H    O
+    |   //
 H - C - C - O - H
-  |       
-  H
+    |       
+    H
 ```
 
 ```
