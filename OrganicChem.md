@@ -204,7 +204,11 @@ H - C = O
 
 > Compounds with same molecular formulae but diffrent structural formulae are known as structural isomers.
 
+#### Butane
+
 ![alt text](https://github.com/The-Real-Thisas/IGCSE-ChemNotes/blob/master/images/OrganicChem/1.png?raw=true)
+
+#### Pentane
 
 ![alt text](https://github.com/The-Real-Thisas/IGCSE-ChemNotes/blob/master/images/OrganicChem/2.png?raw=true)
 
