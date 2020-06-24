@@ -197,8 +197,15 @@ H - C - C - O - H
 ```
 H - C = O
     |
-   OH     
+    OH     
 ```
+
+## Structural isomers 
+
+> Compounds with same molecular formulae but diffrent structural formulae are known as structural isomers.
+
+
+
 
 
 
