@@ -139,7 +139,14 @@ H - C - C - C - C - O - H
 ```
 test
 
+    H   H   H
+Butanol:
 
+    H   H   H   H
+    |   |   |   |   
+H - C - C - C - C - O - H
+    |   |   |   |
+    H   H   H   H
 
 
 
