@@ -14,7 +14,7 @@ Millions of organic compounds are known. So we have to make groups and we have t
   - Carboxylic acids: Carboxylic acid has an -COOH group
 
 ## Characteristics of a homologous series: 
--
+
   - All members have the same general formula.
   - They have very similar chemical properties because they are of a same functional group.
   - The physical properties change in a predictable way as the number of carbon atoms increases.
@@ -137,7 +137,7 @@ H - C - C - C - C - O - H
     |   |   |   |
     H   H   H   H
 ```
-
+test
 
 
 
