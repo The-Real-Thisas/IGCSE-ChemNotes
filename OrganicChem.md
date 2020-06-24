@@ -47,6 +47,7 @@ Name ending → compound-type name
 
 What are Alkanes  ?
  > Alkanes are organic compounds that consist entirely of single-bonded carbon and hydrogen atoms and lack any other functional groups. The distinguishing feature of an alkane, making it distinct from other compounds that also exclusively contain carbon and hydrogen, is its lack of unsaturation.
+ > CNH2N+2
 
 ## Properties of Alkanes (And alkenes)
 
@@ -179,7 +180,26 @@ H - C - C - C - C - O - H
     H   H   H   H
 ```
 
- 
+## Carboxylic Acids
+
+##### General formulae: CnH2n+1COOH
+
+##### Functional group: COOH
+
+```
+  H      O
+  |     //
+H - C - C - O - H
+  |       
+  H
+```
+
+```
+
+
+
+```
+
 
 
 
