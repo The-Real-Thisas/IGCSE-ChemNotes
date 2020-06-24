@@ -14,7 +14,7 @@ Millions of organic compounds are known. So we have to make groups and we have t
   - Alcohols: All alcohols have an -OH group and --OH
   - Carboxylic acids: Carboxylic acid has an -COOH group
 
-> Empirical formulae: It is the simplest ratio of molecules in an atom.
+- Empirical formulae: It is the simplest ratio of molecules in an atom.
 
 ## Characteristics of a homologous series: 
 
@@ -38,6 +38,10 @@ Name ending → compound-type name
 ### Saturated compounds 
 
 > If the compound has a double bond or triple bonds they are known as an unsaturated compound. They do not have the maximum number of hydrogen atoms around the carbon atom.
+
+### Fuctional Groups
+
+> A group of atoms that is responsible for the characteristic reactions of a homologous series. 
 
 ## Alkanes
 
