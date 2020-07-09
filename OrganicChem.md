@@ -209,4 +209,9 @@ H - C = O
 
 2-methylpropane  -->
 
-Alkanes are the only have a single covalent bond in their structor. We call then Saturated hydrocarbons, because no more atoms can be added to their molecules.
+## Thursday 9th July (Notes)
+
+#### Alkanes are the only have a single covalent bond in their structor. We call then Saturated hydrocarbons, because no more atoms can be added to their molecules.
+
+
+#### Alkanes are generally unreactive but by in certain conditions we can subject alkanes to 2 different types of combustion. Complete and incomplete combustion. With complete combustion carbon dioxide and water . Likewise, with incomplete combustion, It produces carbon monoxide and sut.
