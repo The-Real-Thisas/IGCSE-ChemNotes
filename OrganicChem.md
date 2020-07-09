@@ -1,14 +1,14 @@
-# Organic Chemistry 
+# Organic Chemistry
 
-All organic compounds contain carbon, they usually contain hydrogen and may contain other elements as well. 
+All organic compounds contain carbon, they usually contain hydrogen and may contain other elements as well.
 
 Millions of organic compounds are known. So we have to make groups and we have to make rules for naming them.
 
 ##  Homologous Series
 
-- Homologous series: A group of organic molecules, with similar chemical properties is called homologous series. 
+- Homologous series: A group of organic molecules, with similar chemical properties is called homologous series.
 
-- Examples 
+- Examples
   - Alkenes: Alkenes Are hydrocarbons which have only single covalent bond in their structure
   - Alkanes: Alkanes are organic compounds that consist entirely of single-bonded carbon and hydrogen atoms and lack any other functional groups. The distinguishing feature of an alkane, making it distinct from other compounds that also exclusively contain carbon and hydrogen, is its lack of unsaturation.
   - Alcohols: All alcohols have an -OH group and --OH
@@ -16,12 +16,12 @@ Millions of organic compounds are known. So we have to make groups and we have t
 
 - Empirical formulae: It is the simplest ratio of molecules in an atom.
 
-## Characteristics of a homologous series: 
+## Characteristics of a homologous series:
 
   - All members have the same general formula.
   - They have very similar chemical properties because they are of a same functional group.
   - The physical properties change in a predictable way as the number of carbon atoms increases.
-  - Consecutive members in a homologous series differ by a ch2 group. 
+  - Consecutive members in a homologous series differ by a ch2 group.
   - The chain length increases by 1 each time
   - As the chain gets longer, the compounds show a gradual change in properties
 
@@ -35,19 +35,20 @@ Name ending → compound-type name
 - “oic acid” → carboxylic acid
 - “yl”, “oate” → ester
 
-### Saturated compounds 
+### Saturated compounds
 
 > If the compound has a double bond or triple bonds they are known as an unsaturated compound. They do not have the maximum number of hydrogen atoms around the carbon atom.
 
 ### Fuctional Groups
 
-> A group of atoms that is responsible for the characteristic reactions of a homologous series. 
+> A group of atoms that is responsible for the characteristic reactions of a homologous series.
 
 ## Alkanes
 
 What are Alkanes  ?
  > Alkanes are organic compounds that consist entirely of single-bonded carbon and hydrogen atoms and lack any other functional groups. The distinguishing feature of an alkane, making it distinct from other compounds that also exclusively contain carbon and hydrogen, is its lack of unsaturation.
  > CNH2N+2
+ > Alkanes are the only have a single covalent bond in their structor. We call then Saturated hydrocarbons, because no more atoms can be added to their molecules.
 
 ## Properties of Alkanes (And alkenes)
 
@@ -57,12 +58,12 @@ Alkane | Molecular Formula | Melting Point (°C)	| Boiling Point (°C) | Phase a
 -------|-------------------|--------------------|--------------------|---------------|-----------------------------
  methane | CH4 | –182.5 | –161.5 | gas | 1
  ethane | C2H6 | –183.3 | –88.6 | gas | 1
- propane | C3H8 | –187.7 | –42.1 | gas | 1 
+ propane | C3H8 | –187.7 | –42.1 | gas | 1
  butane | C4H10 | –138.3 | –0.5 | gas | 2
  pentane | C5H12 | –129.7 | 36.1 | liquid | 3
  hexane | C6H14 | –95.3 | 68.7 | liquid | 5
- heptane | C7H16 | –90.6 | 98.4 | liquid | 9 
- octane | C8H18 | –56.8 | 125.7 | liquid | 18 
+ heptane | C7H16 | –90.6 | 98.4 | liquid | 9
+ octane | C8H18 | –56.8 | 125.7 | liquid | 18
  nonane | C9H2 | –53.6 | 150.8 | liquid | 35
  decane | C10H22 | –29.7 | 174.0 | liquid | 75
  tetradecane | C14H30 | 5.9 | 253.5 | solid | 1858
@@ -80,7 +81,7 @@ Methane:
 ```
 
 Ethane:
-``` 
+```
     H 	H
     |	|
 H - C - C - H
@@ -89,8 +90,8 @@ H - C - C - H
 ```
 
 Propane:
-``` 
-    H 	H   H 
+```
+    H 	H   H
     |	|   |
 H - C - C - C - H
     |   |   |
@@ -98,7 +99,7 @@ H - C - C - C - H
 ```
 
 Butane:
-``` 
+```
     H 	H   H   H
     |	|   |   |
 H - C - C - C - C - H
@@ -121,23 +122,23 @@ What are alkenes ?
 
 #### Examples of Alkenes
 Ethene:
-``` 
+```
 H       H
  \     /
-  C = C 
+  C = C
  /     \
 H       H
 ```
 Prophene:
 ```
-    H 	H   H 
-    |	|   | 
-H - C - C = C 
-    |       | 
-    H       H 
+    H 	H   H
+    |	  |   |
+H - C - C = C
+    |       |
+    H       H
 ```
 Butene:
-``` 
+```
 H     H   H   H
  \    |   |   |
   C = C - C - C - H
@@ -148,7 +149,7 @@ H         H   H
 ## Alcohols
 
 Methanol:
-``` 
+```
     H
     |
 H - C - O - H
@@ -156,9 +157,9 @@ H - C - O - H
     H
 ```
 Ethanol:
-``` 
+```
     H   H
-    |   | 
+    |   |
 H - C - C - O - H
     |   |
     H   H
@@ -200,21 +201,12 @@ H - C = O
     OH     
 ```
 
-## Structural isomers 
+## Structural isomers
 
-> Compounds with same molecular formulae but diffrent structural formulae are known as structural isomers.
+> Compounds with same molecular formula but different structural formula are known as structural isomers.
 
-## Isomers and nomenclature
+<!-- ## Isomers and Nomenclature
 
+2-methylpropane  -->
 
-
-
-
-
-
-
-
-
-
-
-
+Alkanes are the only have a single covalent bond in their structor. We call then Saturated hydrocarbons, because no more atoms can be added to their molecules.
