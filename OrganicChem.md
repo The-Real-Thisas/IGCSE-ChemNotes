@@ -207,7 +207,7 @@ H - C = O
 
 <!-- ## Isomers and Nomenclature
 
-2-methylpropane  -->
+2-methylpropane -->
 
 ## Thursday 9th July (Notes)
 
@@ -216,8 +216,25 @@ H - C = O
 
 #### Alkanes are generally unreactive but by in certain conditions we can subject alkanes to 2 different types of combustion. Complete and incomplete combustion. With complete combustion it produces carbon dioxide and water . Likewise, with incomplete combustion, It produces carbon monoxide and sut.
 
-#### A photochemical reaction in a chlorine atom replaces a hydrogen atom in the alkane. We call this type of reaction a substitution reaction. .
+#### A photochemical reaction ina chlorine atom replaces a hydrogen atom in the alkane.We call this type of reaction a substitution reaction..
 
 C3H8 + 5 O2 = 3 CO2 + 4 H2O
 2 C3H8 + 7 O2 = 6 CO + 8 H2O
 C3H8 + 2 O2 = 3 C + 4 H2O
+
+## Fuels 
+
+Fuels to know:
+    - Coal
+    - Natural gas: main constituent is methane
+    - Petroleum: a mixture of hydrocarbons which can be separated into fractions
+
+Uses of Petroleum Fractions
+ - Refinery gas: bottled gas for heating and cooking
+ - Gasoline fraction: fuel (petrol) in cars
+ - Naphtha fraction: making chemicals
+ - Kerosene/paraffin fraction: jet fuel, lamps
+ - Diesel oil/gas oil fraction: fuel in diesel engines
+ - Fuel oil fraction: fuel in ships and home heating systems
+ - Lubricating fraction: lubricants, waxes and polishes
+ - Bitumen: making roads
