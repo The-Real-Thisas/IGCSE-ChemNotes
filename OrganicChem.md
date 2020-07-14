@@ -238,3 +238,16 @@ Uses of Petroleum Fractions
  - Fuel oil fraction: fuel in ships and home heating systems
  - Lubricating fraction: lubricants, waxes and polishes
  - Bitumen: making roads
+
+## Petroleum
+
+There are three types of fossil feuls:
+ - Coal
+ - petroleum(crude oil)
+ - natural gas
+
+The formation of petroleum Petroteum (or crude oil) is one of the Earth's major natural resources, the result of a process that began up to 400 million years ago. When prehistoric marine creatures died, they sank to the seabed and were Covered by mud. The change into petroleum and natural gas was brought about by high pressure, high temperature and bacteria acting over millions of years. The original organic material broke down into hydrocarbons. Compression of the mud above the hydrocarbon mixture transformed it into shale. Then geological movements and pressure changed this shale into harder rocks, squeezing out the oil and gas. The oil and gas moved upwards through the porous rocks, moving from high-pressure to low-pressure conditions. Sometimes they reached the surface, but often they became trapped by a layer of non-porous rock.
+
+Reservoirs of oil arid has were created. These reservoirs are not lakes of oil or pockets of gas, instead, the oil or gas is spread throughout the pores in coarse rocks such as sandstone or limestone, in much the same way as water is held in a sponge. 
+
+Oilfields and gasfields are detected by a series of geological and seismic surveys. Promising areas are then drilled to gain more geological information or, if oil or gas is found, to see how extensive the old oilfield or gasfield is. Once a field is established production oil rigs can be set up, on land or at sea. 
