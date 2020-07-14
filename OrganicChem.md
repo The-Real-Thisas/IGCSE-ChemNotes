@@ -246,8 +246,22 @@ There are three types of fossil feuls:
  - petroleum(crude oil)
  - natural gas
 
-The formation of petroleum Petroteum (or crude oil) is one of the Earth's major natural resources, the result of a process that began up to 400 million years ago. When prehistoric marine creatures died, they sank to the seabed and were Covered by mud. The change into petroleum and natural gas was brought about by high pressure, high temperature and bacteria acting over millions of years. The original organic material broke down into hydrocarbons. Compression of the mud above the hydrocarbon mixture transformed it into shale. Then geological movements and pressure changed this shale into harder rocks, squeezing out the oil and gas. The oil and gas moved upwards through the porous rocks, moving from high-pressure to low-pressure conditions. Sometimes they reached the surface, but often they became trapped by a layer of non-porous rock.
+### Formation of petroleum
+The formation of petroteum (or crude oil) is one of the Earth's major natural resources, the result of a process that began up to 400 million years ago. When prehistoric marine creatures died, they sank to the seabed and were Covered by mud. The change into petroleum and natural gas was brought about by high pressure, high temperature and bacteria acting over millions of years. The original organic material broke down into hydrocarbons. Compression of the mud above the hydrocarbon mixture transformed it into shale. Then geological movements and pressure changed this shale into harder rocks, squeezing out the oil and gas. The oil and gas moved upwards through the porous rocks, moving from high-pressure to low-pressure conditions. Sometimes they reached the surface, but often they became trapped by a layer of non-porous rock.
 
 Reservoirs of oil arid has were created. These reservoirs are not lakes of oil or pockets of gas, instead, the oil or gas is spread throughout the pores in coarse rocks such as sandstone or limestone, in much the same way as water is held in a sponge. 
 
 Oilfields and gasfields are detected by a series of geological and seismic surveys. Promising areas are then drilled to gain more geological information or, if oil or gas is found, to see how extensive the old oilfield or gasfield is. Once a field is established production oil rigs can be set up, on land or at sea. 
+
+
+### Fractional distillation
+
+Fractional distillation Petroleum is the mixture of many different hydrocarbon molecules. Most of the petroleum that is extracted from the ground is used to make fuel, but around 10% is used as a feedstock, or raw materials, in the chemical industry. Before it can be used, the various hydrocarbon molecules are separated by refining. This is done by fractional distillation at an oil refinery. 
+
+At a refinery, petroleum is separated into different fractions - groups of hydrocarbons that have different boiling points. These different boiling points are roughly related to the number of carbon atoms in the hydrocarbons.
+
+Separation of the hydrocarbons takes place by fractional distillation using a fractionating column (or tower). At the start of the refining process, petroleum is preheated to a temperature of 350-400 °C and pumped in at the base of the tower. As it boils, the vapour passes up the tower. It passes through a series of bubble caps, and cools as it rises further up the column. The different fractions cool and condense at different temperatures, and therefore at different heights in the column. The fractions condensing at the different levels are collected on trays. Fractions from the top of the tower are called 'light' and those from the bottom 'heavy'. Each fraction contains a number of diffrent hydrocarbons. The individual single hydrocarbons can then be obtained by further distillation.
+
+ Fraction | Approximate number of carbon atoms in hydrocarbons | Appeoximate boiling range / C
+ refinery gas | 1 - 4 | C1-C4 | below 25
+
