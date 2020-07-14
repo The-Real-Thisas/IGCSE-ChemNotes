@@ -211,7 +211,13 @@ H - C = O
 
 ## Thursday 9th July (Notes)
 
-#### Alkanes are the only have a single covalent bond in their structor. We call then Saturated hydrocarbons, because no more atoms can be added to their molecules.
+#### Alkanes are the only hydrocarbon to have a single covalent bond in their structor. We call then Saturated hydrocarbons, because no more atoms can be added to their molecules.
 
 
-#### Alkanes are generally unreactive but by in certain conditions we can subject alkanes to 2 different types of combustion. Complete and incomplete combustion. With complete combustion carbon dioxide and water . Likewise, with incomplete combustion, It produces carbon monoxide and sut.
+#### Alkanes are generally unreactive but by in certain conditions we can subject alkanes to 2 different types of combustion. Complete and incomplete combustion. With complete combustion it produces carbon dioxide and water . Likewise, with incomplete combustion, It produces carbon monoxide and sut.
+
+#### A photochemical reaction in a chlorine atom replaces a hydrogen atom in the alkane. We call this type of reaction a substitution reaction. .
+
+C3H8 + 5 O2 = 3 CO2 + 4 H2O
+2 C3H8 + 7 O2 = 6 CO + 8 H2O
+C3H8 + 2 O2 = 3 C + 4 H2O
