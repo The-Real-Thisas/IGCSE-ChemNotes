@@ -216,7 +216,7 @@ H - C = O
 
 #### Alkanes are generally unreactive but by in certain conditions we can subject alkanes to 2 different types of combustion. Complete and incomplete combustion. With complete combustion it produces carbon dioxide and water . Likewise, with incomplete combustion, It produces carbon monoxide and sut.
 
-#### A photochemical reaction ina chlorine atom replaces a hydrogen atom in the alkane.We call this type of reaction a substitution reaction..
+#### A photochemical reaction in a chlorine atom replaces a hydrogen atom in the alkane.We call this type of reaction a substitution reaction..
 
 C3H8 + 5 O2 = 3 CO2 + 4 H2O
 2 C3H8 + 7 O2 = 6 CO + 8 H2O
@@ -241,13 +241,13 @@ Uses of Petroleum Fractions
 
 ## Petroleum
 
-There are three types of fossil feuls:
+There are three types of fossil fuels:
  - Coal
  - petroleum (crude oil)
  - natural gas
 
 ### Formation of petroleum
-The formation of petroteum (or crude oil) is one of the Earth's major natural resources, the result of a process that began up to 400 million years ago. When prehistoric marine creatures died, they sank to the seabed and were Covered by mud. The change into petroleum and natural gas was brought about by high pressure, high temperature and bacteria acting over millions of years. The original organic material broke down into hydrocarbons. Compression of the mud above the hydrocarbon mixture transformed it into shale. Then geological movements and pressure changed this shale into harder rocks, squeezing out the oil and gas. The oil and gas moved upwards through the porous rocks, moving from high-pressure to low-pressure conditions. Sometimes they reached the surface, but often they became trapped by a layer of non-porous rock.
+The formation of petroleum (or crude oil) is one of the Earth's major natural resources, the result of a process that began up to 400 million years ago. When prehistoric marine creatures died, they sank to the seabed and were Covered by mud. The change into petroleum and natural gas was brought about by high pressure, high temperature and bacteria acting over millions of years. The original organic material broke down into hydrocarbons. Compression of the mud above the hydrocarbon mixture transformed it into shale. Then geological movements and pressure changed this shale into harder rocks, squeezing out the oil and gas. The oil and gas moved upwards through the porous rocks, moving from high-pressure to low-pressure conditions. Sometimes they reached the surface, but often they became trapped by a layer of non-porous rock.
 
 Reservoirs of oil arid has were created. These reservoirs are not lakes of oil or pockets of gas, instead, the oil or gas is spread throughout the pores in coarse rocks such as sandstone or limestone, in much the same way as water is held in a sponge. 
 
@@ -257,14 +257,17 @@ Oilfields and gasfields are detected by a series of geological and seismic surve
 ### Fractional distillation
 
 > Fractions: Groups of hydrocarbons that have different boiling points.
+> fractionating column: Where separation of the hydrocarbons takes place by fractional distillation.
 
 Fractional distillation Petroleum is the mixture of many different hydrocarbon molecules. Most of the petroleum that is extracted from the ground is used to make fuel, but around 10% is used as a feedstock, or raw materials, in the chemical industry. Before it can be used, the various hydrocarbon molecules are separated by refining. This is done by fractional distillation at an oil refinery. 
 
 At a refinery, petroleum is separated into different fractions - groups of hydrocarbons that have different boiling points. These different boiling points are roughly related to the number of carbon atoms in the hydrocarbons.
 
-Separation of the hydrocarbons takes place by fractional distillation using a fractionating column (or tower). At the start of the refining process, petroleum is preheated to a temperature of 350-400 °C and pumped in at the base of the tower. As it boils, the vapour passes up the tower. It passes through a series of bubble caps, and cools as it rises further up the column. The different fractions cool and condense at different temperatures, and therefore at different heights in the column. The fractions condensing at the different levels are collected on trays. Fractions from the top of the tower are called 'light' and those from the bottom 'heavy'. Each fraction contains a number of diffrent hydrocarbons. The individual single hydrocarbons can then be obtained by further distillation.
+Separation of the hydrocarbons takes place by fractional distillation using a fractionating column (or tower). At the start of the refining process, petroleum is preheated to a temperature of 350-400 °C and pumped in at the base of the tower. As it boils, the vapor passes up the tower. It passes through a series of bubble caps, and cools as it rises further up the column. The different fractions cool and condense at different temperatures, and therefore at different heights in the column. The fractions condensing at the different levels are collected on trays. Fractions from the top of the tower are called 'light' and those from the bottom 'heavy'. Each fraction contains a number of different hydrocarbons. The individual single hydrocarbons can then be obtained by further distillation.
 
-|  Fraction          | Approximate number of carbon atoms in hydrocarbons |           | State        | Approximate boiling range / C |
+Petroleum is first introduced to a furnace where the petroleum is first heated. Then all the hydrocarbons turn into gases. Which then the gaseous hydrocarbons are led to a tower called the fractionating column.  
+
+|  Fraction          | Approximate number of carbon atoms in hydrocarbons |           |  State        | Approximate boiling range / C |
 |--------------------|----------------------------------------------------|-----------|---------------|-------------------------------|
 | refinery gas       | 1 - 4                                              | C1 - C4   |  liquid       | below 25                      |
 | gasoline/petrol    | 4 - 12                                             | C4 - C12  |  liquid       | 40 - 100                      |
@@ -272,8 +275,26 @@ Separation of the hydrocarbons takes place by fractional distillation using a fr
 | kerosene/paraffin  | 12 - 16                                            | C9 - C16  |  liquid       | 150 - 240                     |
 | diesel oil/gas oil | 14 - 18                                            | C14 - C18 |  liquid       | 220 - 300                     |
 | fuel oil           | 19 - 15                                            | C19 - C25 |  liquid       | 250 - 320                     |
-| lubricating oil    | 20 - 40                                            | C20 - C40 |  liquid       | 300 - 350                     |
-| bitumen            | over 70                                            | > C70     |  semi-liquid  | above 350                     |   
+| lubricating oil    | 20 - 40                                            | C20 - C40 |  semi-liquid  | 300 - 350                     |
+| bitumen            | over 70                                            | > C70     |  semi-liquid  | above 350                     | 
 
-### Natural gas        
+> Boiling point, viscosity and flammability decreases down the group/
+
+### Natural gas 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
