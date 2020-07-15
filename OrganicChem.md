@@ -256,6 +256,8 @@ Oilfields and gasfields are detected by a series of geological and seismic surve
 
 ### Fractional distillation
 
+> Fractions: Groups of hydrocarbons that have different boiling points.
+
 Fractional distillation Petroleum is the mixture of many different hydrocarbon molecules. Most of the petroleum that is extracted from the ground is used to make fuel, but around 10% is used as a feedstock, or raw materials, in the chemical industry. Before it can be used, the various hydrocarbon molecules are separated by refining. This is done by fractional distillation at an oil refinery. 
 
 At a refinery, petroleum is separated into different fractions - groups of hydrocarbons that have different boiling points. These different boiling points are roughly related to the number of carbon atoms in the hydrocarbons.
