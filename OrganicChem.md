@@ -264,7 +264,7 @@ At a refinery, petroleum is separated into different fractions - groups of hydro
 
 Separation of the hydrocarbons takes place by fractional distillation using a fractionating column (or tower). At the start of the refining process, petroleum is preheated to a temperature of 350-400 °C and pumped in at the base of the tower. As it boils, the vapour passes up the tower. It passes through a series of bubble caps, and cools as it rises further up the column. The different fractions cool and condense at different temperatures, and therefore at different heights in the column. The fractions condensing at the different levels are collected on trays. Fractions from the top of the tower are called 'light' and those from the bottom 'heavy'. Each fraction contains a number of diffrent hydrocarbons. The individual single hydrocarbons can then be obtained by further distillation.
 
-|  Fraction          | Approximate number of carbon atoms in hydrocarbons |           |  State        | Approximate boiling range / C |
+|  Fraction          | Approximate number of carbon atoms in hydrocarbons |           | State        | Approximate boiling range / C |
 |--------------------|----------------------------------------------------|-----------|---------------|-------------------------------|
 | refinery gas       | 1 - 4                                              | C1 - C4   |  liquid       | below 25                      |
 | gasoline/petrol    | 4 - 12                                             | C4 - C12  |  liquid       | 40 - 100                      |
