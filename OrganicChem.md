@@ -298,17 +298,17 @@ https://crab.rutgers.edu/~alroche/Ch08.pdf
 
 There are several uses of alkenes
 
-Styrofoam Material
+###### Styrofoam Material
 
 The double bond that differentiates between alkanes and alkenes helps in the production of styrofoam. It contributes to create foamy but light texture to the styrofoam. The connection between the atoms are slightly lose and therefore it makes styrofoam a light but flammable material.
 
 Thus, styrofoam of alkenes compound is not recommended for closed space with no fire system suc as soundproof system. It is because the highly flammable material may spark fire and set the room in ablaze in just couple of minutes.
 
-Teflon Coating
+###### Teflon Coating
 
 Another use of alkenes in industry people can found in teflon. The coating in teflon has polytetrafluorethene in which it also has alkenes in its compound. The coating helps to prevent the teflon to get burned and get the steel damaged in fast time. Thus, it helps to preserve the teflon, the coating for the teflon bottom also helps to stabilize the fire. The coating surely is different from contemporary frying pan that gets burned mark easily compared to teflon.
 
-Artificial Ripening
+###### Artificial Ripening
 
 The use of alkenes that common people may not know is as artificial ripening. The double bond in alkenes help to make the ripening process of fruits faster. Artificial ripening is laboratory processed additive to help farmers not to lose the unripe fruits during harvesting by letting the rest of the fruits ripe using artificial ripening. This chemical may come in liquid and used by spraying it to the fruit. In three days there usually signs of ripening on the fruit.
 
