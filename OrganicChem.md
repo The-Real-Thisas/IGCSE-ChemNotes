@@ -222,7 +222,7 @@ C3H8 + 5 O2 = 3 CO2 + 4 H2O
 2 C3H8 + 7 O2 = 6 CO + 8 H2O
 C3H8 + 2 O2 = 3 C + 4 H2O
 
-## Fuels 
+## Fuels
 
 Fuels to know:
     - Coal
@@ -249,17 +249,17 @@ There are three types of fossil fuels:
 ### Formation of petroleum
 The formation of petroleum (or crude oil) is one of the Earth's major natural resources, the result of a process that began up to 400 million years ago. When prehistoric marine creatures died, they sank to the seabed and were Covered by mud. The change into petroleum and natural gas was brought about by high pressure, high temperature and bacteria acting over millions of years. The original organic material broke down into hydrocarbons. Compression of the mud above the hydrocarbon mixture transformed it into shale. Then geological movements and pressure changed this shale into harder rocks, squeezing out the oil and gas. The oil and gas moved upwards through the porous rocks, moving from high-pressure to low-pressure conditions. Sometimes they reached the surface, but often they became trapped by a layer of non-porous rock.
 
-Reservoirs of oil arid has were created. These reservoirs are not lakes of oil or pockets of gas, instead, the oil or gas is spread throughout the pores in coarse rocks such as sandstone or limestone, in much the same way as water is held in a sponge. 
+Reservoirs of oil arid has were created. These reservoirs are not lakes of oil or pockets of gas, instead, the oil or gas is spread throughout the pores in coarse rocks such as sandstone or limestone, in much the same way as water is held in a sponge.
 
-Oilfields and gasfields are detected by a series of geological and seismic surveys. Promising areas are then drilled to gain more geological information or, if oil or gas is found, to see how extensive the old oilfield or gasfield is. Once a field is established production oil rigs can be set up, on land or at sea. 
+Oilfields and gasfields are detected by a series of geological and seismic surveys. Promising areas are then drilled to gain more geological information or, if oil or gas is found, to see how extensive the old oilfield or gasfield is. Once a field is established production oil rigs can be set up, on land or at sea.
 
 
-### ###Fractional distillation
+### Fractional distillation
 
 > Fractions: Groups of hydrocarbons that have different boiling points.
 > fractionating column: Where separation of the hydrocarbons takes place by fractional distillation.
 
-Fractional distillation Petroleum is the mixture of many different hydrocarbon molecules. Most of the petroleum that is extracted from the ground is used to make fuel, but around 10% is used as a feedstock, or raw materials, in the chemical industry. Before it can be used, the various hydrocarbon molecules are separated by refining. This is done by fractional distillation at an oil refinery. 
+Fractional distillation Petroleum is the mixture of many different hydrocarbon molecules. Most of the petroleum that is extracted from the ground is used to make fuel, but around 10% is used as a feedstock, or raw materials, in the chemical industry. Before it can be used, the various hydrocarbon molecules are separated by refining. This is done by fractional distillation at an oil refinery.
 
 At a refinery, petroleum is separated into different fractions - groups of hydrocarbons that have different boiling points. These different boiling points are roughly related to the number of carbon atoms in the hydrocarbons.
 
@@ -276,25 +276,60 @@ Petroleum is first introduced to a furnace where the petroleum is first heated. 
 | diesel oil/gas oil | 14 - 18                                            | C14 - C18 |  liquid       | 220 - 300                     |
 | fuel oil           | 19 - 15                                            | C19 - C25 |  liquid       | 250 - 320                     |
 | lubricating oil    | 20 - 40                                            | C20 - C40 |  semi-liquid  | 300 - 350                     |
-| bitumen            | over 70                                            | > C70     |  semi-liquid  | above 350                     | 
+| bitumen            | over 70                                            | > C70     |  semi-liquid  | above 350                     |
 
-> Boiling point, viscosity and flammability decreases down the group/
+> Boiling point and viscosity increases down the group while flammability decreases.
 
-### Natural gas 
+### Natural gas
+Natural gas, is a naturally occurring hydrocarbon gas mixture consisting primarily of methane, but commonly including varying amounts of other higher alkanes, and sometimes a small percentage of carbon dioxide, nitrogen, hydrogen sulfide, or helium. It is formed when layers of decomposing plant and animal matter are exposed to intense heat and pressure under the surface of the Earth over millions of years.
 
+### Cracking
+> Is the thermal decomposition of alkenes
 
+(in the distillation of petroleum or the like) the process of breaking down certain hydrocarbons into simpler ones of lower boiling points by means of excess heat, distillation under pressure, etc., in order to give a greater yield of low-boiling products than could be obtained by simple distillation.Compare catalytic cracking.
 
+### reactions of alkenes
 
-
-
-
-
-
-
-
-
+https://crab.rutgers.edu/~alroche/Ch08.pdf
 
 
 
+Alkenes Uses
+
+There are several uses of alkenes
+
+    Styrofoam Material
+
+The double bond that differentiates between alkanes and alkenes helps in the production of styrofoam. It contributes to create foamy but light texture to the styrofoam. The connection between the atoms are slightly lose and therefore it makes styrofoam a light but flammable material.
+
+Thus, styrofoam of alkenes compound is not recommended for closed space with no fire system suc as soundproof system. It is because the highly flammable material may spark fire and set the room in ablaze in just couple of minutes.
+
+    Teflon Coating
+
+Another use of alkenes in industry people can found in teflon. The coating in teflon has polytetrafluorethene in which it also has alkenes in its compound. The coating helps to prevent the teflon to get burned and get the steel damaged in fast time. Thus, it helps to preserve the teflon, the coating for the teflon bottom also helps to stabilize the fire. The coating surely is different from contemporary frying pan that gets burned mark easily compared to teflon.
+
+    Artificial Ripening
+
+The use of alkenes that common people may not know is as artificial ripening. The double bond in alkenes help to make the ripening process of fruits faster. Artificial ripening is laboratory processed additive to help farmers not to lose the unripe fruits during harvesting by letting the rest of the fruits ripe using artificial ripening. This chemical may come in liquid and used by spraying it to the fruit. In three days there usually signs of ripening on the fruit.
 
 
+## Calculation of Empirical Formula
+
+- Step 1: Obtain the mass of each element present in grams
+  - Element % = mass in g = m
+
+- Step 2: Determine the number of moles of each type of atom present
+  - m/atomic mass = Molar amount (M)
+
+- Step 3: Divide the number of moles of each element by the smallest number of moles
+  - M / least M value = Atomic Ratio (R)
+
+- Step 4: Convert numbers to whole numbers. This set of whole numbers are the subscripts in the empirical formula.
+  - R * whole number = Empirical Formula
+
+
+hydrogen can also be produced by cracking. Ethane -> ethene + hydrogen
+
+### Alcohols
+
+### Carboxiylic Acids
