@@ -313,7 +313,7 @@ Another use of alkenes in industry people can found in teflon. The coating in te
 The use of alkenes that common people may not know is as artificial ripening. The double bond in alkenes help to make the ripening process of fruits faster. Artificial ripening is laboratory processed additive to help farmers not to lose the unripe fruits during harvesting by letting the rest of the fruits ripe using artificial ripening. This chemical may come in liquid and used by spraying it to the fruit. In three days there usually signs of ripening on the fruit.
 
 
-## Calculation of Empirical Formula
+### Calculation of Empirical Formula
 
 - Step 1: Obtain the mass of each element present in grams
   - Element % = mass in g = m
@@ -332,4 +332,20 @@ hydrogen can also be produced by cracking. Ethane -> ethene + hydrogen
 
 ### Alcohols
 
+Alcohols are one of the most important molecules in organic chemistry. They can be prepared from many different types of compounds, and they can be converted into many different types of compounds. Alcohols are molecules containing the hydroxy functional group (-OH) that is bonded to the carbon atom of an alkyl or substituted alkyl. The hydroxy functional group strongly contributes to the physical properties of alcohols.
+
+#### Nomenclature of Alcohols
+
+![](images/OrganicChem/6.png)
+
 ### Carboxiylic Acids
+
+
+
+
+
+
+
+
+
+
