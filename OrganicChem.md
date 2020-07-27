@@ -209,18 +209,18 @@ H - C = O
 
 2-methylpropane -->
 
-## Thursday 9th July (Notes)
+#### Alkanes/Alkenes Note
 
-#### Alkanes are the only hydrocarbon to have a single covalent bond in their structor. We call then Saturated hydrocarbons, because no more atoms can be added to their molecules.
+ Alkanes are the only hydrocarbon to have a single covalent bond in their structor. We call then Saturated hydrocarbons, because no more atoms can be added to their molecules.
 
 
-#### Alkanes are generally unreactive but by in certain conditions we can subject alkanes to 2 different types of combustion. Complete and incomplete combustion. With complete combustion it produces carbon dioxide and water . Likewise, with incomplete combustion, It produces carbon monoxide and sut.
+ Alkanes are generally unreactive but by in certain conditions we can subject alkanes to 2 different types of combustion. Complete and incomplete combustion. With complete combustion it produces carbon dioxide and water . Likewise, with incomplete combustion, It produces carbon monoxide and sut.
 
-#### A photochemical reaction in a chlorine atom replaces a hydrogen atom in the alkane.We call this type of reaction a substitution reaction..
+ A photochemical reaction in a chlorine atom replaces a hydrogen atom in the alkane.We call this type of reaction a substitution reaction..
 
-C3H8 + 5 O2 = 3 CO2 + 4 H2O
-2 C3H8 + 7 O2 = 6 CO + 8 H2O
-C3H8 + 2 O2 = 3 C + 4 H2O
+	C3H8 + 5 O2 = 3 CO2 + 4 H2O
+	2 C3H8 + 7 O2 = 6 CO + 8 H2O
+	C3H8 + 2 O2 = 3 C + 4 H2O
 
 ## Fuels
 
@@ -298,19 +298,19 @@ https://crab.rutgers.edu/~alroche/Ch08.pdf
 
 There are several uses of alkenes
 
-#### Styrofoam Material
+- Styrofoam Material
 
-The double bond that differentiates between alkanes and alkenes helps in the production of styrofoam. It contributes to create foamy but light texture to the styrofoam. The connection between the atoms are slightly lose and therefore it makes styrofoam a light but flammable material.
+	The double bond that differentiates between alkanes and alkenes helps in the production of styrofoam. It contributes to create foamy but light texture to the styrofoam. The connection between the atoms are slightly lose and therefore it makes styrofoam a light but flammable material.
 
-Thus, styrofoam of alkenes compound is not recommended for closed space with no fire system suc as soundproof system. It is because the highly flammable material may spark fire and set the room in ablaze in just couple of minutes.
+	Thus, styrofoam of alkenes compound is not recommended for closed space with no fire system suc as soundproof system. It is because the highly flammable material may spark fire and set the room in ablaze in just couple of minutes.
 
-#### Teflon Coating
+- Teflon Coating
 
-Another use of alkenes in industry people can found in teflon. The coating in teflon has polytetrafluorethene in which it also has alkenes in its compound. The coating helps to prevent the teflon to get burned and get the steel damaged in fast time. Thus, it helps to preserve the teflon, the coating for the teflon bottom also helps to stabilize the fire. The coating surely is different from contemporary frying pan that gets burned mark easily compared to teflon.
+	Another use of alkenes in industry people can found in teflon. The coating in teflon has polytetrafluorethene in which it also has alkenes in its compound. The coating helps to prevent the teflon to get burned and get the steel damaged in fast time. Thus, it helps to preserve the teflon, the coating for the teflon bottom also helps to stabilize the fire. The coating surely is different from contemporary frying pan that gets burned mark easily compared to teflon.
 
-#### Artificial Ripening
+- Artificial Ripening
 
-The use of alkenes that common people may not know is as artificial ripening. The double bond in alkenes help to make the ripening process of fruits faster. Artificial ripening is laboratory processed additive to help farmers not to lose the unripe fruits during harvesting by letting the rest of the fruits ripe using artificial ripening. This chemical may come in liquid and used by spraying it to the fruit. In three days there usually signs of ripening on the fruit.
+	The use of alkenes that common people may not know is as artificial ripening. The double bond in alkenes help to make the ripening process of fruits faster. Artificial ripening is laboratory processed additive to help farmers not to lose the unripe fruits during harvesting by letting the rest of the fruits ripe using artificial ripening. This chemical may come in liquid and used by spraying it to the fruit. In three days there usually signs of ripening on the fruit.
 
 
 ### Calculation of Empirical Formula
@@ -328,7 +328,7 @@ The use of alkenes that common people may not know is as artificial ripening. Th
   - R * whole number = Empirical Formula
 
 
-hydrogen can also be produced by cracking. Ethane -> ethene + hydrogen
+> Hydrogen can also be produced by cracking. Ethane -> ethene + hydrogen
 
 ### Alcohols
 
@@ -338,9 +338,192 @@ Alcohols are one of the most important molecules in organic chemistry. They can 
 
 ![](images/OrganicChem/6.png)
 
-#### 
+#### Properties of Alcohols 
+
+Alcohols are some of the most important molecules in organic chemistry. They can be prepared from and converted into many different types of compounds. Alcohols contain the hydroxy functional group (-OH), bonded to a carbon atom of an alkyl or substituted alkyl group. The functional group of an alcohol is the hydroxyl group, –OH. Unlike the alkyl halides, this group has two reactive covalent bonds, the C–O bond and the O–H bond. The electronegativity of oxygen is substantially greater than that of carbon and hydrogen. Consequently, the covalent bonds of this functional group are polarized so that oxygen is electron rich and both carbon and hydrogen are electrophilic.
+
+#### Reactivity of Alcohols 
+
+The functional group of the alcohols is the hydroxyl group, –OH. Unlike the alkyl halides, this group has two reactive covalent bonds, the C–O bond and the O–H bond. The electronegativity of oxygen is substantially greater than that of carbon and hydrogen. Consequently, the covalent bonds of this functional group are polarized so that oxygen is electron rich and both carbon and hydrogen are electrophilic.
+
+#### Uses of Alcohols 
+
+- Use of ethanol as a fuel
+
+	Ethanol burns to produce carbon dioxide and water, as shown in the equation below, and can be used as a fuel in its own right or in mixtures with petrol (gasoline). "Gasohol" is a petrol/ethanol mixture containing approximately 10–20% ethanol. Because ethanol can be produced by fermentation, this is a useful method for countries without an oil industry to reduce the amount of petrol imports.
+
+	CH3CH2OH+3O2→2CO2+3H2O
+
+- Ethanol as a solvent
+
+	Ethanol is widely used as a solvent. It is relatively safe and can be used to dissolve many organic compounds that are insoluble in water. It is used, for example, in many perfumes and cosmetics.
+
+
 
 ### Carboxiylic Acids
+
+The carboxyl functional group that characterizes the carboxylic acids is unusual in that it is composed of two functional groups: (1) the carboxyl group and (2) of a hydroxyl group bonded to a carbonyl group. It is often written in condensed form as –CO2H or –COOH. Other combinations of functional groups were described previously, and significant changes in chemical behavior as a result of group interactions were described (e.g. phenol & aniline). In this case, the change in chemical and physical properties resulting from the interaction of the hydroxyl and carbonyl group are so profound that the combination is customarily treated as a distinct and different functional group.
+
+
+
+![](images/OrganicChem/7.png)
+
+
+Many carboxylic acids are called by the common names. These names were chosen by chemists to usually describe a source of where the compound is found. In common names of aldehydes, carbon atoms near the carboxyl group are often designated by Greek letters. The atom adjacent to the carbonyl function is alpha, the next removed is beta and so on.
+
+| Formula               | Common Name     | IUPAC Name     | Melting Point | Boiling Point |
+|----------------------|-----------------|----------------|---------------|---------------|
+| HCO 2H               | formic acid     | methanoic acid | 8.4 ºC        | 101 ºC        |
+| CH 3 CO 2H           | acetic acid     | ethanoic acid  | 16.6 ºC       | 118 ºC        |
+| CH 3 CH 2 CO 2H      | propionic acid  | propanoic acid | -20.8 ºC      | 141 ºC        |
+| CH 3 (CH 2 ) 2 CO 2H | butyric acid    | butanoic acid  | -5.5 ºC       | 164 ºC        |
+| CH 3 (CH 2 ) 3 CO 2H | valeric acid    | pentanoic acid | -34.5 ºC      | 186 ºC        |
+| CH 3 (CH 2 ) 4 CO 2H | caproic acid    | hexanoic acid  | -4.0 ºC       | 205 ºC        |
+| CH 3 (CH 2 ) 5 CO 2H | enanthic acid   | heptanoic acid | -7.5 ºC       | 223 ºC        |
+| CH 3 (CH 2 ) 6 CO 2H | caprylic acid   | octanoic acid  | 16.3 ºC       | 239 ºC        |
+| CH 3 (CH 2 ) 7 CO 2H | pelargonic acid | nonanoic acid  | 12.0 ºC       | 253 ºC        |
+| CH 3 (CH 2 ) 8 CO 2H | capric acid     | decanoic acid  | 31.0 ºC       | 219 ºC        |
+
+
+![](images/OrganicChem/8.png)
+
+#### Properties of Carboxylic Acids 
+
+| Formula               | IUPAC Name                    | Molecular Weight | Boiling Point | Water Solubility   |
+|-----------------------|-------------------------------|------------------|---------------|--------------------|
+| CH 3 (CH 2 ) 2 CO 2H  | butanoic acid                 | 88               | 164 ºC        | very soluble       |
+| CH 3 (CH 2 ) 2 CONH 2 | butanamide                    | 87               | 216-220 ºC    | soluble            |
+| CH 3 CH 2 CONHCH 3    | N-methylpropanamide           | 87               | 205 -210 ºC   | soluble            |
+| CH 3 CON(CH 3 ) 2     | N,N-dimethylethanamide        | 87               | 166 ºC        | very soluble       |
+| HCON(CH 3 )CH 2 CH 3  | N-ethyl, N-methylmethanamide  | 87               | 170-180 ºC    | very soluble       |
+| CH 3 (CH 2 ) 3CN      | pentanenitrile                | 83               | 141 ºC        | slightly soluble   |
+| CH 3 CO 2CHO          | ethanoic methanoic  anhydride | 88               | 105-112 ºC    | reacts with water  |
+| CH 3 CH 2 CO 2 CH 3   | methyl propanoate             | 88               | 80 ºC         | slightly soluble   |
+| CH 3 CO 2 C 2 H 5     | ethyl ethanoate               | 88               | 77 ºC         | moderately soluble |
+| CH 3 CH 2COCl         | propanoyl chloride            | 92.5             | 80 ºC         | reacts with water  |
+| CH 3 (CH 2 ) 3CHO     | pentanal                      | 86               | 103 ºC        | slightly soluble   |
+| CH 3 (CH 2 ) 2 COCH 3 | 2-pentanone                   | 86               | 102 ºC        | slightly soluble   |
+
+####  Simple Reactions of Carboxylic Acids as Acids 
+
+##### The acidity of the carboxylic acids
+
+ Using the definition of an acid as a "substance which donates protons (hydrogen ions) to other things", the carboxylic acids are acidic because of the hydrogen in the -COOH group. In solution in water, a hydrogen ion is transferred from the -COOH group to a water molecule. For example, with ethanoic acid, you get an ethanoate ion formed together with a hydroxonium ion, H3O+.
+
+This reaction is reversible and, in the case of ethanoic acid, no more than about 1% of the acid has reacted to form ions at any one time. (This is a rough-and-ready figure and varies with the concentration of the solution.)
+
+These are therefore weak acids.
+
+\(CH_3COOH + H_2O \rightleftharpoons CH_3COO^- + H_3O^+\)
+
+CH3COOH+H2O⇌CH3COO−+H3O+
+
+This equation is often simplified by removing the water to:
+
+\(CH_3COOH (aq) \rightleftharpoons CH_3COO^- (aq) + H^+\)
+
+CH3COOH(aq)⇌CH3COO−(aq)+H+
+
+However, if you are going to use this second equation, you must include state symbols. They imply that the hydrogen ion is actually attached to a water molecule.
+
+##### The pH of carboxylic acid solutions
+
+The pH depends on both the concentration of the acid and how easily it loses hydrogen ions from the -COOH group. Ethanoic acid is typical of the acids where the -COOH group is attached to a simple alkyl group. Typical lab solutions have pH's in the 2 - 3 range, depending on their concentrations.
+
+Methanoic acid is rather stronger than the other simple acids, and solutions have pH's about 0.5 pH units less than ethanoic acid of the same concentration.
+
+
+##### Reactions of carboxylic acids with metals
+
+Carboxylic acids react with the more reactive metals to produce a salt and hydrogen. The reactions are just the same as with acids like hydrochloric acid, except they tend to be rather slower.
+
+For example, dilute ethanoic acid reacts with magnesium. The magnesium reacts to produce a colorless solution of magnesium ethanoate, and hydrogen is given off. If you use magnesium ribbon, the reaction is less vigorous than the same reaction with hydrochloric acid, but with magnesium powder, both are so fast that you probably wouldn't notice much difference.
+
+\(2CH_3COOH + Mg \rightarrow (CH_3COO)_2Mg + H_2\)
+
+2CH3COOH+Mg→(CH3COO)2Mg+H2
+
+##### Reactions of carboxylic acids With metal hydroxides
+
+These are simple neutralisation reactions and are just the same as any other reaction in which hydrogen ions from an acid react with hydroxide ions. They are most quickly and easily represented by the equation:
+
+\(H^+ (aq) + OH^- \rightarrow H_2O(l)\)
+
+H+(aq)+OH−→H2O(l)
+
+If you mix dilute ethanoic acid with sodium hydroxide solution, for example, you simply get a colorless solution containing sodium ethanoate. The only sign that a change has happened is that the temperature of the mixture will have increased.
+
+This change could well be represented by the ionic equation above, but if you want it, the full equation for this particular reaction is:
+
+\(CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O\)
+
+CH3COOH+NaOH→CH3COONa+H2O
+
+
+##### Reactions of carboxylic acids with carbonates and hydrogencarbonates
+
+In both of these cases, a salt is formed together with carbon dioxide and water. Both are most easily represented by ionic equations.
+
+For carbonates:
+
+\(2H^+ (aq) + CO_3^{2-} \rightarrow H_2O (l) + CO_2 (g)\)
+
+2H+(aq)+CO2−3→H2O(l)+CO2(g)
+
+. . . and for hydrogencarbonates:
+
+\(H^+ (aq) + HCO_3^{-} \rightarrow H_2O (l) + CO_2 (g)\)
+
+H+(aq)+HCO−3→H2O(l)+CO2(g)
+
+If you pour some dilute ethanoic acid onto some white sodium carbonate or sodium hydrogencarbonate crystals, there is an immediate fizzing as carbon dioxide is produced. You end up with a colorless solution of sodium ethanoate.
+
+With sodium carbonate, the full equation is:
+
+\(2CH_3COOH + Na_2CO_3 \rightarrow 2CH_3COONa + H_2O + CO_2\)
+
+2CH3COOH+Na2CO3→2CH3COONa+H2O+CO2
+
+. . . and for sodium hydrogencarbonate:
+
+\(CH_3COOH + NaHCO_3 \rightarrow CH_3COONa + H_2O + CO_2\)
+
+CH3COOH+NaHCO3→CH3COONa+H2O+CO2
+
+There is very little obvious difference in the vigor of these reactions compared with the same reactions with dilute hydrochloric acid. However, you would notice the difference if you used a slower reaction - for example with calcium carbonate in the form of a marble chip. With ethanoic acid, you would eventually produce a colorless solution of calcium ethanoate.
+
+\(2CH_3COOH + CaCO_3 \rightarrow (CH_3COO)_2Ca + H_2O + CO_2\)
+
+2CH3COOH+CaCO3→(CH3COO)2Ca+H2O+CO2
+
+In this case, the marble chip would react noticeably more slowly with ethanoic acid than with hydrochloric acid.
+
+#### Reactions of carboxylic acids with ammonia
+
+Ethanoic acid reacts with ammonia in exactly the same way as any other acid does. It transfers a hydrogen ion to the lone pair on the nitrogen of the ammonia and forms an ammonium ion.
+
+![](images/OrganicChem/9.png)
+
+If you mix together a solution of ethanoic acid and a solution of ammonia, you will get a colorless solution of ammonium ethanoate.
+
+\(CH_3COOH + NH_3 \rightarrow CH_3COONH_4\)
+
+CH3COOH+NH3→CH3COONH4
+
+#### Uses of carboxylic acids
+
+ - Producing of soaps need higher fatty acids. Soaps are usually sodium or potassium salts of higher fatty acids such as stearic acid.
+
+ - The food industry uses numerous organic acids for the manufacture of soft drinks, food products etc. For instance, acetic acid is used in making vinegar. Sodium salts of organic acids find use in preservatives.
+
+ - In the pharmaceutical industry organic acids are used in numerous drugs
+
+ - Acetic acids are often used as a coagulant in the producing of rubber.
+
+ - Organic acids find vast application in making dyestuff, perfumes, and rayon.
+
+
+
 
 
 
